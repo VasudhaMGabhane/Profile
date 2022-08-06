@@ -1,0 +1,13 @@
+.fab,.fas{
+  font-weight: 500;
+  font-size: larger;
+  font-family: 'FontAwesome';
+  font-style: normal;
+  color: #000;
+}
+a{
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
