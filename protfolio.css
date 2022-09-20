@@ -11,3 +11,14 @@ a{
 ul {
   list-style: none;
 }
+a .menu:hover{
+  color: #blue;
+}
+.main{
+  background-image: url("C:/Users/HP/OneDrive/Documents/Desktop/task/image/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img-border{
+  border: 5px solid #fff !important;
+}
